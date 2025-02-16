@@ -5,3 +5,7 @@ div{
 color:red;
 background-color:yellow;
 }
+.eyes{
+color: black;
+background-color: yellow;
+}
