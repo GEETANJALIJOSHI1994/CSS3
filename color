@@ -9,3 +9,6 @@ background-color:yellow;
 color: black;
 background-color: yellow;
 }
+h2{
+background-color:pink;
+}
