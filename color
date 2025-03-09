@@ -21,3 +21,6 @@ bakground-color:blue;
 .human{
 background-colour:yellow;
 }
+h2{
+color:black;
+}
