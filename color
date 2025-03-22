@@ -1,3 +1,12 @@
+#frnd{
+bakground-color:blue;
+}
+.human{
+background-colour:yellow;
+}
+h2{
+color:black;
+}
 h1{
 background-color:pink;
 }
