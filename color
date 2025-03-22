@@ -30,6 +30,9 @@ background-color:yellow;
 color: black;
 background-color: yellow;
 }
+h1{
+color:pink;
+}
 h2{
 background-color:pink;
 }
