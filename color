@@ -1,3 +1,6 @@
+.m2{
+colour:black;
+}
 .m1{
 colour:green;
 }
