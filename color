@@ -1,3 +1,6 @@
+.b{
+colour: purple;
+}
 #b{
 background-colour: pink;
 }
