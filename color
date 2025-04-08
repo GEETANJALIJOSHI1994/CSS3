@@ -1,3 +1,6 @@
+*{
+margin:20px;
+}
 .b{
 colour: purple;
 }
