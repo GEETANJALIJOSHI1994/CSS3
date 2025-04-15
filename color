@@ -1,5 +1,6 @@
 
 #b{
+background-color:pink;
 margin:20px;
 padding:5px;
 color:red;
