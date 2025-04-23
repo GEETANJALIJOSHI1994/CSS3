@@ -10,6 +10,7 @@ text-aline:centre;
 *{
 margin:20px;
 padding:5px;
+color:pink;
 }
 .b{
 colour: purple;
